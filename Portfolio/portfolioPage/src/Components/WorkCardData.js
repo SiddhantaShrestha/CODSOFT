@@ -1,19 +1,19 @@
-import pro1 from "../Images/projectCard1.jpg";
+import pro1 from "../Images/landing.png";
 import pro2 from "../Images/calcu.png";
 import pro3 from "../Images/projectCard3.jpg";
 
 const ProjectCardData = [
   {
     imgsrc: pro1,
-    title: "Ecommerce Website Design",
-    text: "This is a simple e-commerce website for the sales of Bonsai plants, with proper sections to make it an user-friendly website. ",
-    view: "https://www.youtube.com/watch?v=sCtODdGvgp8&t=1813s",
+    title: "Landing Page",
+    text: "This is a simple landing page displaying the features and option to download the app the page is promoting , with proper sections to make it an user-friendly website. ",
+    view: "https://github.com/SiddhantaShrestha/Landing-Page",
   },
   {
     imgsrc: pro2,
     title: "Calculator",
     text: "This is a very simple calculator, for calculations on any scales, using simple React js. It had a well-planned strategy to have a simple look with everything necessary for a calculator.",
-    view: "https://github.com/SiddhantaShrestha/CODSOFT/tree/main/Calculator",
+    view: "https://github.com/SiddhantaShrestha/Calculator",
   },
   {
     imgsrc: pro3,
