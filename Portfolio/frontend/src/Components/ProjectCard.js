@@ -1,4 +1,4 @@
-import "./ProjectCard.css";
+import "../CSS/ProjectCard.css";
 
 import React from "react";
 import { NavLink } from "react-router-dom";

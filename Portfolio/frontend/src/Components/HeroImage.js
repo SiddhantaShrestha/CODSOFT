@@ -1,4 +1,4 @@
-import "./HeroImage.css";
+import "../CSS/HeroImage.css";
 import React from "react";
 
 import heroBg from "../Images/heroBg.jpg";

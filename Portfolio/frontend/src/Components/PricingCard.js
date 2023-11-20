@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./PricingCard.css";
+import "../CSS/PricingCard.css";
 import React from "react";
 
 const PricingCard = () => {

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./AboutMe.css";
+import "../CSS/AboutMe.css";
 import React from "react";
 import React1 from "../Images/react1.png";
 import React2 from "../Images/react2.png";

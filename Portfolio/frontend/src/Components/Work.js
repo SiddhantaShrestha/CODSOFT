@@ -1,4 +1,4 @@
-import "./ProjectCard.css";
+import "../CSS/ProjectCard.css";
 import ProjectCard from "./ProjectCard";
 import WorkCardData from "./WorkCardData";
 

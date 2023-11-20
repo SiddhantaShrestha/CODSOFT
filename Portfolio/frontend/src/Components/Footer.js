@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "../CSS/Footer.css";
 
 import React from "react";
 
@@ -51,18 +51,34 @@ const Footer = () => {
             This is Siddhanta Shrestha. MERN Stack developer. I enjoy discussing
             and working on new projects and web development challenges.
             <div className="socials">
-              <FaFacebook
-                size={28}
-                style={{ color: "#fff", marginRight: "1rem" }}
-              />
-              <FaTwitter
-                size={28}
-                style={{ color: "#fff", marginRight: "1rem" }}
-              />
-              <FaLinkedin
-                size={28}
-                style={{ color: "#fff", marginRight: "1rem" }}
-              />
+              <a
+                href="https://www.facebook.com/undertakerbestwrestler.55/"
+                target="blank"
+              >
+                <FaFacebook
+                  size={28}
+                  style={{ color: "#fff", marginRight: "1rem" }}
+                />
+              </a>
+              <a
+                href="https://www.facebook.com/undertakerbestwrestler.55/"
+                target="blank"
+              >
+                <FaTwitter
+                  size={28}
+                  style={{ color: "#fff", marginRight: "1rem" }}
+                />
+              </a>
+
+              <a
+                href="https://www.linkedin.com/in/siddhanta-shrestha-321207286/"
+                target="blank"
+              >
+                <FaLinkedin
+                  size={28}
+                  style={{ color: "#fff", marginRight: "1rem" }}
+                />
+              </a>
             </div>
           </p>
         </div>
