@@ -8,19 +8,10 @@ function Feature() {
   return (
     <div id="features">
       <h1>Features</h1>
-      <div className="a-container">
-        <FeatureBox
-          image={featureImage}
-          title="Development Course"
-        ></FeatureBox>
-        <FeatureBox
-          image={featureImage1}
-          title="Money Saving Services"
-        ></FeatureBox>
-        <FeatureBox
-          image={featureImage2}
-          title="Usability Interface"
-        ></FeatureBox>
+      <div className="feature-container">
+        <FeatureBox image={featureImage} title="Special Course"></FeatureBox>
+        <FeatureBox image={featureImage1} title="Various Services"></FeatureBox>
+        <FeatureBox image={featureImage2} title="User Friendly"></FeatureBox>
       </div>
     </div>
   );

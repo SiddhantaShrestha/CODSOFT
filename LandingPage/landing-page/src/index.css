@@ -211,7 +211,7 @@ width: 600px;
   padding-top: 40px ;
   background-color: #ffffff;
 }
-.a-container{
+.feature-container{
   display: flex;
   justify-content: center;
   align-content: center;
@@ -250,7 +250,7 @@ width: 600px;
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('./images/presentation.png')!important;
+  background-image: url('./images/presentation1.jpg')!important;
   text-align: center;
 }
 #presentaion h1{
@@ -421,7 +421,7 @@ border-radius: 20px;
   #features{
   height:auto;
   }
-  .a-container{
+  .feature-container{
   flex-wrap: wrap;
 }
   .a-box{
